@@ -1,4 +1,11 @@
-# quotes-app
+# Yet another Quotes application with Vue
+
+We live in a world where there aren't enough quote apps. 
+Here is a small contribution from my side to populate github with more and more Quote apps.
+
+Demo here: https://geongeorge.github.io/vue-quotes-app/
+
+Made with Vue <3
 
 ## Project setup
 ```
